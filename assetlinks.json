@@ -1,1 +1,10 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moonlit.appslinknative",
+    "sha256_cert_fingerprints":
+    ["BF:7D:44:C7:04:FC:B8:69:9B:E6:7B:A5:62:FC:8B:4C:CB:83:90:90:49:06:38:30:FE:98:55:D7:94:96:80:B9"]
+  }
+}]
