@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.orgname.LeadManagement",
-    "sha256_cert_fingerprints":
-    ["59:A8:A4:2E:C9:BC:57:3A:A0:23:2A:B2:89:16:97:BD:DE:53:E1:FD:50:F8:0F:20:B8:0E:B7:CF:64:BD:83:F2"]
-  }
-}]
